@@ -8,7 +8,7 @@ describe 'index.html' do
 
   before(:each) do
     @comparison = GreenOnion::Compare.new
-    @tolerance = 0.5
+    @tolerance = 4.1
   end
 
   it 'index page should match the solution' do
