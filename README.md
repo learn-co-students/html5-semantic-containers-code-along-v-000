@@ -90,7 +90,7 @@ At the bottom of the page before the closing `</body>` tag lets create a `<foote
 ```html
 ...
   <footer>
-    &copy; 2014 Exceptional Realty Group. All Rights Reserved.
+    &copy; 2017 Exceptional Realty Group. All Rights Reserved.
   </footer>
 </body>
 ```
