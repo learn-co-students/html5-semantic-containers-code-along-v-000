@@ -122,7 +122,7 @@ Now add another surrounding our video player.
         <source src="videos/real-estate.ogv" type="video/ogg">
         Your browser does not support HTML5 video. <a href="http://browsehappy.com" target="_blank">Please upgrade your browser</a>.
       </video>
-      <figcaption>Exceptional Realty Group Promotional Video - Source: archive.org</figcaption>
+      <figcaption>
     </figure>
   </section>
 ```
