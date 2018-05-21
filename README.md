@@ -1,5 +1,8 @@
 # HTML5 Semantic Containers Code-along
 
+## Note
+To see see work associated with this lab see the repo at Jirles/exception-realty.git. This repo was only forked in order to 'pass' the lab.
+
 ## Objectives
 
 1. Surround existing content with HTML5 Semantic Elements
