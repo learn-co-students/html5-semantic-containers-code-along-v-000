@@ -1,10 +1,10 @@
 # HTML5 Semantic Containers Code-along
 
-## Objectives
+## OBJECTIVES
 
 1. Surround existing content with HTML5 Semantic Elements
 
-## Introduction
+## INTRODUCTION
 
 Building upon previous code alongs, in this exercise you will add HTML5
 Semantic Elements by coding along with the video provided, reviewing the
